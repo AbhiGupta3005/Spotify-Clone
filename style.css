@@ -3,7 +3,6 @@ body {
     margin:0;
     background-color: black;
     color: white;
-    overflow: hidden;
     position: absolute; 
 }
 .main {
