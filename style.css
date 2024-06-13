@@ -24,6 +24,7 @@ body {
     padding: 0 1.5rem 0 1.5rem;
 }
 .music-player {
+    position:absolute;
     background-color: black;
     bottom: 0;
     width: 100%;
